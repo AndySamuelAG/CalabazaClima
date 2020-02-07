@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calabaza Clima</string>
+    <string name="textview">TextView</string>
+    <string name="txtGrados">18º</string>
+    <string name="txtCiudad">Arequipa</string>
+    <string name="txtClima">Nublado</string>
+
+    <string name="txtWelcome">Bienvenido a Calabaza Clima</string>
+    <string name="txtDescription">Elige una ciudad para ver su clima</string>
+
+    <string name="txtBtnArequipa">Arequipa</string>
+    <string name="txtBtnCaracas">Caracas</string>
+</resources>
